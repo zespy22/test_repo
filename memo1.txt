@@ -1,3 +1,6 @@
 git init 연습
 git commit 연습
 git status 연습
+
+
+fix에서 수정해버리는 거임
